@@ -1,0 +1,38 @@
+[
+    {
+        "foto":"https://www.intel.la/content/dam/www/public/us/en/images/marquees/itdm/nuc8-i7i5i3-inh-office-scene-3-rwd.png.rendition.intel.web.480.270.png",
+        "nombre":"Computadora Lenovo",
+        "precio":"20000",
+        "stock" : "76543211"
+    },
+    {
+        "foto":"https://icdn2.digitaltrends.com/image/digitaltrends_es/asus-8-416x416.jpg",
+        "nombre":"Laptop Asus",
+        "precio":"10000",
+        "stock" : "76543211"
+    },
+    {
+        "foto":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvHXwLyi0QKkHHVgwwJ4Np_WMg54zZddZt2A&usqp=CAU",
+        "nombre":"Computadora Cuantica",
+        "precio":"21111",
+        "stock" : "76543211"
+    },
+    {
+        "foto":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi9-tD6OvXpYAagm5qRDbmNrrTggL5_Umk-Q&usqp=CAU",
+        "nombre":"Laptop Gamer Toshiba",
+        "precio":"2990",
+        "stock" : "76543211"
+    },
+    {
+        "foto":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_nBE0xYa3kQBgnJZ6zfwaWqCObdq1kSBhFA&usqp=CAU",
+        "nombre":"Computadora NASA",
+        "precio":"2092",
+        "stock" : "76543211"
+    },
+    {
+        "foto":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAKx9L4ceisU7XAbUv18Z5FvK9BgVT-CindQ&usqp=CAU",
+        "nombre":"Computadora Gamer",
+        "precio":"2067",
+        "stock" : "76543211"
+    }
+]

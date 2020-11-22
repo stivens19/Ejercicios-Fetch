@@ -1,0 +1,38 @@
+[
+    {
+        "codigo":"2017200566H",
+        "nombre":"Axel Valero Sanchez",
+        "edad":"20",
+        "dni" : "76543211"
+    },
+    {
+        "codigo":"2017200566J",
+        "nombre":"Vera Hilario Anthony",
+        "edad":"20",
+        "dni" : "76547649"
+    },
+    {
+        "codigo":"2017200777J",
+        "nombre":"Johansy Lazo Reyes",
+        "edad":"21",
+        "dni" : "76543222"
+    },
+    {
+        "codigo":"2017200726H",
+        "nombre":"Cristian Parraga Torres",
+        "edad":"20",
+        "dni" : "76543211"
+    },
+    {
+        "codigo":"2017200563H",
+        "nombre":"Stivens Espinoza Reina",
+        "edad":"21",
+        "dni" : "73041310"
+    },
+    {
+        "codigo":"2017200652H",
+        "nombre":"Nelson Torpoco Dianderas",
+        "edad":"21",
+        "dni" : "76392839"
+    }
+]

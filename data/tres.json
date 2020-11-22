@@ -1,0 +1,38 @@
+[
+    {
+        "foto":"https://cadenaser00.epimg.net/ser/imagenes/2019/12/17/ciencia/1576575386_575032_1576577718_noticia_normal_recorte1.jpg",
+        "nombre":"Computadora Lenovo",
+        "precio":"20000",
+        "stock" : "76543211"
+    },
+    {
+        "foto":"https://icdn2.digitaltrends.com/image/digitaltrends_es/asus-8-416x416.jpg",
+        "nombre":"Laptop Asus",
+        "precio":"10000",
+        "stock" : "76543211"
+    },
+    {
+        "foto":"https://e.rpp-noticias.io/medium/2018/12/10/724263collage-sin-titulojpg.jpg",
+        "nombre":"Computadora Cuantica",
+        "precio":"21111",
+        "stock" : "76543211"
+    },
+    {
+        "foto":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVdIuYADv4eE4APVXzd1FiKchCJSUgYvz7xg&usqp=CAU",
+        "nombre":"Laptop Gamer Toshiba",
+        "precio":"2990",
+        "stock" : "76543211"
+    },
+    {
+        "foto":"https://gestion.pe/resizer/o1lCNYbvVgJKAGVYuSezUpV1K6w=/980x0/smart/filters:format(jpeg):quality(75)/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/MOGTQTQOHFB3NE6BJSYDEDT7PQ.jpg",
+        "nombre":"Computadora NASA",
+        "precio":"2092",
+        "stock" : "76543211"
+    },
+    {
+        "foto":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQx1x-zx7gq8l3jA59CwIcU6tdI0-DCsFiFA&usqp=CAU",
+        "nombre":"Computadora Gamer",
+        "precio":"2067",
+        "stock" : "76543211"
+    }
+]
